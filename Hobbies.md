@@ -5,7 +5,7 @@
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75iBc2MCkGDPt9ligR2LuFp9wWbPk8wKAsg&amp;usqp=CAU" alt="Mizzou Rec"></p>
 <p>I have a few more hobbies but I do not want to take up anymore of your time so I will start my conclusion. </p>
 <h1 id="brief-conclusion">Brief Conclusion</h1>
-<p>I am a sophomore at the University of Missouri that is an IT Major that enjoys anime and other mundane activites that a normal person would enjoy.</p>
+<p> <em>I am a sophomore at the University of Missouri that is an IT Major that enjoys anime and other mundane activites that a normal person would enjoy.</p>
 <p>Thank you for your time:)</p>
 <p><em>Links:</em></p>
 <p>Intro: <a href="README.md">About-Me</a></p>
