@@ -9,7 +9,7 @@
 <li>C#</li>
 </ul>
 <p>Out of these five languages I am most comfortable with C# and Python. HTML and JavaScript are pretty decent with me but I am so terrible at C and can barely code anything in C. </p>
-<p>Also here is a little demo code in JavaScript:</p>
+<p>Also here is a little demo code:</p>
 <pre><code class="lang-javascript"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
