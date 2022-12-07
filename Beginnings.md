@@ -1,5 +1,5 @@
 <h1 id="beginnings">Beginnings</h1>
-<p>I am from the humble state of Mississippi.</p>
+<p> <strong>I am from the humble state of Mississippi.</p>
 <p><strong>Picture of Mississippi Flag</strong><img src="https://user-images.githubusercontent.com/91273401/197325317-5e3c1968-5c4e-450a-bb0a-0c985d2ffec6.png" alt="image"></p>
 <p><strong>Fun Fact</strong></p>
 <ul>
