@@ -9,7 +9,7 @@
 <li>Mississippi is the home of the Blues Music. </li>
 </ul>
 <p><em>Links:</em></p>
-<p>Intro: <a href="README.md">About-Me</a>. </p>
+<p>Intro: <a href="README.md">IT-Final</a>. </p>
 <p>Page 2: <a href="Sports.md">Sports</a>.</p>
 <p>Page 3: <a href="College.md">College</a>.</p>
 <p>Page 4: <a href="Coding.md">Coding</a>.</p>
